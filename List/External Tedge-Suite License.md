@@ -71,8 +71,8 @@ following conditions:
    You **don't** have to specify the accurate location where you used code fragments of this project.<br/>
    You still have to provide this document in the program files though (according with *Section #2, article 1*).<br/><br/>
 
-4. This software is provided 'as-is', without any express or implied warranty.<br/>
-   In no event will the authors be held liable for any damages arising from the use of this software.
+4. This project is provided 'as-is', without any express or implied warranty.<br/>
+   In no event will the authors of this project be held liable for any damages arising from the use of this project.
 
 ---------------------------
 
