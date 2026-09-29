@@ -2,6 +2,8 @@
 
 Released at 29 September 2026
 
+*The 29 July version is available [here](https://github.com/TedgeMC/Licenses/blob/e60c8f87e4b27ed4b7cac4d6aba9c880368b6048/List/External%20Tedge-Suite%20License.md). However, all projects using the previous version should be deemed as automatically upgraded to this version (it gives authors of projects using this license more freedom)*.
+
 ---------------------------
 
 **Definitions**
