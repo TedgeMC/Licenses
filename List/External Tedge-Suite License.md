@@ -1,6 +1,6 @@
 **OLAFCIO EXTERNAL TEDGE-SUITE LICENSE**
 
-Released at 29 July 2026
+Released at 29 September 2026
 
 ---------------------------
 
